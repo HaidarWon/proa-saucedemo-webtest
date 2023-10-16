@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "723951597C423B7F2EA877DF7A01253F",
+  "keywordClasses": [
+    {
+      "name": "com.saucelabs.logout",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

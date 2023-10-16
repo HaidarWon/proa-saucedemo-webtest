@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "60526F656E9EAAF49C79AC79B1C7E7BE",
+  "keywordClasses": [
+    {
+      "name": "com.saucelabs.removeorder",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

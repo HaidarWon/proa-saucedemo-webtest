@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "5AC94D3E7E82529717BB3EF7F3050093",
+  "keywordClasses": [
+    {
+      "name": "com.saucelabs.negative_checkoutwithoutinputform",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

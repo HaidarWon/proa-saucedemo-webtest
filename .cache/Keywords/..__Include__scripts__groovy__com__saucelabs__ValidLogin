@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "330834D57B50EA9F5CC6D793F1A918C1",
+  "keywordClasses": [
+    {
+      "name": "com.saucelabs.validlogin",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}
